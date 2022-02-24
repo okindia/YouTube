@@ -1,7 +1,5 @@
 #! /usr/bin/python3
 
-banner = r'''
-
 import requests
 import os
 import sys
@@ -35,7 +33,6 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
