@@ -1,16 +1,6 @@
 #! /usr/bin/python3
 
 banner = r'''
-########################################################
-#        __   __         _____      _                  #
-#        \ \ / /__  _   |_   _|   _| |__   ___         #
-#         \ V / _ \| | | || || | | | '_ \ / _ \        #
-#          | | (_) | |_| || || |_| | |_) |  __/        #
-#          |_|\___/ \__,_||_| \__,_|_.__/ \___|        #
-#                                                      #
-#                                 >>                   #
-########################################################
-'''
 
 import requests
 import os
@@ -26,12 +16,12 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://cdn.dribbble.com/users/1696785/screenshots/3941625/media/de05a727b4e30db5289d6e678e69856a.gif')
+                print('https://')
                 return
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://cdn.dribbble.com/users/1696785/screenshots/3941625/media/de05a727b4e30db5289d6e678e69856a.gif')
+                print('https://')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -45,7 +35,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"')
+print('')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
