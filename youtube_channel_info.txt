@@ -1,6 +1,18 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Lofi Girl | Hindi (YouTube) | https://yt3.ggpht.com/qXwJcIl7ufH0x8skbCBBdACHCgRKuPxXRIR3AQCBxNolUiQ0OwOEdK3Qo9p7tiTGBAzq0nY0430=s48-c-k-c0x00ffffff-no-rj | ytLofiGirl
+https://www.youtube.com/watch?v=5qap5aO4i9A
+
+The Good Life Radio x Sensual Musique | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRolK5uaMIsmYQV2cHzxxC8qSCH5aQ18O3_PMJHwQ=s48-c-k-c0x00ffffff-no-rj | ytTheGoodLiferadio
+https://www.youtube.com/watch?v=36YnV9STBqc
+
+Cafe Music BGM channel | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQNk-rbFGf5JjDvJxjaZUQSOR03MaWJ6m8krkMR5A=s48-c-k-c0x00ffffff-no-rj-mo | ytUCJhjE7wbdYAae1G25m0tHAA
+https://www.youtube.com/watch?v=K9iYgHI5bZU
+
+Soothing Relaxation | Hindi (YouTube)) | https://yt3.ggpht.com/ytc/AKedOLRwAV9Krb527QrhWRaeK0nzoiIVkLcRSqlu8qLCHg=s48-c-k-c0x00ffffff-no-rj | ytSoothingRelaxation
+https://www.youtube.com/watch?v=y7e-GC6oGhg
+
 Aaj Tak | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSc430fgzBmgF8DgWUUUKTCj0UmmxfDRzIveN7JFfo=s88-c-k-c0x00ffffff-no-rj | ytaajtak
 https://www.youtube.com/watch?v=Cy_6-_XUW-c
 
@@ -33,3 +45,69 @@ https://www.youtube.com/watch?v=_W5UfJQDv2Q
 
 NDTV | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTTJEVRKRq2MQmhnG83AFSZQRD6iGclKV1swgpSrg=s48-c-k-c0x00ffffff-no-rj | ytNDTV
 https://www.youtube.com/watch?v=MN8p-Vrn6G0
+
+India Today | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSt-tHE1CSHmihgq351JIiXq9-hdITBE4EYNGi2HQ=s48-c-k-c0x00ffffff-no-rj | ytindiatoday
+https://www.youtube.com/watch?v=ReCGVx7EI-c
+
+ABP Ganga | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRPaRYBRzM4Jpo5GvpYxG0e_hyiFbJLhKp7M2cs9w=s48-c-k-c0x00ffffff-no-rj | ytABPGanga
+https://www.youtube.com/watch?v=TEWNGzCGDqA
+
+News18 Rajasthan | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQhArv3K33jZOY84EsE8NPhoscTj7PiJeX5iKrywA=s48-c-k-c0x00ffffff-no-rj | ytNews18Rajasthan
+https://www.youtube.com/watch?v=wiCUo-jtkvU
+
+News18 UP Uttarakhand | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSIaPd1YrylNlyld4NFa3ZiWN1fsBHZ52atT-2xgg=s48-c-k-c0x00ffffff-no-rj | ytNews18UPUttarakhand
+https://www.youtube.com/watch?v=po_2TENO-M8
+
+CNBC Awaaz | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSyRjbzRKUYj309uO4sP5h3OrYedoJV1_kQxsTP=s48-c-k-c0x00ffffff-no-rj | ytcnbcawaaz
+https://www.youtube.com/watch?v=ShpAxnHrlfQ
+
+Zee Uttar Pradesh UttaraKhand | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQtKcSLBS4fJsysLQOEc6ienboYLpWbn4wP6VnisA=s48-c-k-c0x00ffffff-no-rj | ytZeeUttarpradeshUttarakhand
+https://www.youtube.com/watch?v=Z9wMD1n8Sb0
+
+News18 India | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRfocq0I8xuWvLM6KJXdEJy5TzySJqdUYoh_WiJTA=s48-c-k-c0x00ffffff-no-rj | ytnews18India
+https://www.youtube.com/watch?v=jTc5NN19qYs
+
+Zee Bihar Jharkhand | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTJIVGIb2XPAZC-z45CDpQA6hDcfKwHrUpa3r52cg=s48-c-k-c0x00ffffff-no-rj | ytZeeBiharJharkhand
+https://www.youtube.com/watch?v=SvXkNP4uuZg
+
+WION | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTta-0m1PJnm8LL4i_1TzLGXioFwIU5hi6yy0fRqg=s48-c-k-c0x00ffffff-no-rj | ytWION
+https://www.youtube.com/watch?v=1gVvSfBxdEQ
+
+Republic World | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLR-OpM4g0D_ti90nzZnjZXuWSdsnRZMGACWZYoWFQ=s48-c-k-c0x00ffffff-no-rj | ytRepublicWorld
+https://www.youtube.com/watch?v=ar--Vink0-s
+
+News18 MP Chhattisgarh | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRKeznbNKV58mihY-J1NZajWOTGFihwVyaedugk=s48-c-k-c0x00ffffff-no-rj | ytNews18MPChhattisgarh
+https://www.youtube.com/watch?v=P7gFRsYZlvU
+
+Good News Today | Hindi (YouTube) | https://yt3.ggpht.com/lMqH7cmFVaVx5EfOPtuD1ntgb9VdILySu3at9dv6FZT1QWtPkzvObcHt-ZsbYSj0SkMJEfi6=s48-c-k-c0x00ffffff-no-rj | ytGoodNewsTodayOfficial
+https://www.youtube.com/watch?v=ZcnowIlZLus
+
+Sky News | English (YouTube) | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s48-c-k-c0x00ffffff-no-rj | ytSkyNews
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+ABC News | English (YouTube) | https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj | ytABCNews
+https://www.youtube.com/watch?v=UQ6VtEs9c8E
+
+euronews | English (YouTube) | https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s48-c-k-c0x00ffffff-no-rj | ytUCSrZ3UV4jOidv8ppoVuvW9Q
+https://www.youtube.com/watch?v=sPgqEHsONK8
+
+CNA | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj | ytchannelnewsasia
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+ABC News (Australia) | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTa2CQVIx8F_yDjyIXMcuqnRaEEo1_-V-7gXOTbxA=s48-c-k-c0x00ffffff-no-rj | ytNewsOnABC
+https://www.youtube.com/watch?v=2ulLPknNDRA
+
+DW News | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s48-c-k-c0x00ffffff-no-rj | ytdwnews
+https://www.youtube.com/watch?v=V9KZGs1MtP4
+
+FRANCE 24 English | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA=s48-c-k-c0x00ffffff-no-rj | ytFRANCE24English
+https://www.youtube.com/watch?v=jNhh-OLzWlE
+
+CGTN Europe | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s48-c-k-c0x00ffffff-no-rj | ytCGTNEurope
+https://www.youtube.com/watch?v=uJ6AzlYCysY
+
+WION | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTta-0m1PJnm8LL4i_1TzLGXioFwIU5hi6yy0fRqg=s48-c-k-c0x00ffffff-no-rj | ytWION
+https://www.youtube.com/watch?v=1gVvSfBxdEQ
+
+RT | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSJNfetg8Tn7CPWTsUy_KyPuBrEXyR9b7iF5FWhAw=s48-c-k-c0x00ffffff-no-rj | ytRT
+https://www.youtube.com/watch?v=V0I5eglJMRI
