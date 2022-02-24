@@ -1,44 +1,35 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Maa Vishvambhari TirthYatra Dham | Devotional | https://yt3.ggpht.com/ytc/AKedOLRd6dl4OgzfyKLf3xqNdk5rj7j-UW0mxwqJVBkLJQ=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=GLAz9lBaU4g
+Aaj Tak | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSc430fgzBmgF8DgWUUUKTCj0UmmxfDRzIveN7JFfo=s88-c-k-c0x00ffffff-no-rj | ytaajtak
+https://www.youtube.com/watch?v=Cy_6-_XUW-c
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=3-afZfOME9I
+Republic Bharat | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTPDBeE4B3yGNOjlVPFMSDKVwXReRrfW90A4s87Ug=s48-c-k-c0x00ffffff-no-rj | ytRepublicTVBharat
+https://www.youtube.com/watch?v=911cntbvPBU
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=bjBS-OPg18k
+IndiaTV | Hindi (YouTube) | https://yt3.ggpht.com/y5S847YDNlDZNUUk3xmEfVMUDu2XSe0yAU_qvIpbwKi5VgIYQQc3FGeOANbgu-36sBEDpAwDAQ=s48-c-k-c0x00ffffff-no-rj | ytIndiaTV
+https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=uXKG8v_Dzto
+TV9 Bharatvarsh | Hindi (YouTube) | https://yt3.ggpht.com/szaq2QN1WM5Qk5dcSTayT3SZaXCVXcH0Am4CLLfRrb0uh0jrz4mhFvsrLmaE5hTiKL6_1M3lHA=s48-c-k-c0x00ffffff-no-rj | ytTV9Bharatvarsh
+https://www.youtube.com/watch?v=Xg1-mF4BJEk
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=xctPKCp9qT0
+News18 Punjab/Haryana/Himachal | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTnLdg2rB8AaCy6nCZT2Ir3klpqFeCfdbIHBT-x0g=s48-c-k-c0x00ffffff-no-rj | ytNews18PunjabHaryanaHimachalchannel
+https://www.youtube.com/watch?v=RnPoCsQhgXg
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=QVJ9jqGlGPA
+NDTV India | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTTJEVRKRq2MQmhnG83AFSZQRD6iGclKV1swgpSrg=s48-c-k-c0x00ffffff-no-rj | ytndtvindia
+https://www.youtube.com/watch?v=MN8p-Vrn6G0
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=z4970i_MW4w
+ABP NEWS | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRUToLipy4MP82mnh40IvVCb4gOykJssP3S4anLCcE=s48-c-k-c0x00ffffff-no-rj | ytabpnews
+https://www.youtube.com/watch?v=3By5BZt1hcA
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=mophUgL3MG8
+Zee News | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQLDEbpDTMQJiu7E8zjO5ghCVD6UID3br_iKdxA98E=s48-c-k-c0x00ffffff-no-rj | ytzeenews
+https://www.youtube.com/watch?v=pXTvorHxThQ
 
-Relaxation Film | youtube | https://yt3.ggpht.com/ytc/AKedOLSvo0PXO6M5XGG9LONsDSST2Vh-zSGJvOics63B5A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=9skhWPlWtTQ
+News18 Bihar Jharkhand | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLT45BFGj5eKepzvLBlFFt5t6U2VJl7fNtHBaoWIqQ=s48-c-k-c0x00ffffff-no-rj | ytNews18BiharJharkhand
+https://www.youtube.com/watch?v=J_ENwmDWHBw
 
-Live Sai baba Samadhi Darshan (Shirdi) | Devotional | https://yt3.ggpht.com/ytc/AKedOLSq4zm8TV36zB3NhZGVGfqh1ul9HEG69cpkN04m=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=yqOv4SQ1GDY
+News18 Punjab/Haryana/Himachal | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTnLdg2rB8AaCy6nCZT2Ir3klpqFeCfdbIHBT-x0g=s48-c-k-c0x00ffffff-no-rj | ytNews18PunjabHaryanaHimachalchannel
+https://www.youtube.com/watch?v=_W5UfJQDv2Q
 
-News24 | News | https://yt3.ggpht.com/ytc/AKedOLSglyH7xgVy24zJzqgcpKuBtJpMMgFf-TnGFnBJWw=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=wPqgL3MvMMA
-
-DD News  | News | https://yt3.ggpht.com/ytc/AKedOLQtlX3rWNbvBfc9eOCnu5jajwWVrxwe9NvqtLBB1w=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=Gk2_qG-KEm0
-
-lofi hip hop radio | youtube | https://yt3.ggpht.com/ytc/AKedOLRBxyT5Y9xKYWPmnShA_utGUvcJnxWaFmc0CtWTkg=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=5qap5aO4i9A
-
-Bhakti Gaana | Devotional | https://yt3.ggpht.com/ytc/AKedOLRJCy9Wb553z8_k9gmHKsTIaZa4Vgg9KyunZO2A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=Xq5im6BrhTw
+NDTV | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTTJEVRKRq2MQmhnG83AFSZQRD6iGclKV1swgpSrg=s48-c-k-c0x00ffffff-no-rj | ytNDTV
+https://www.youtube.com/watch?v=MN8p-Vrn6G0
