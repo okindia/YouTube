@@ -1,9 +1,6 @@
 #! /usr/bin/python3
-
 banner = r'''
-########################################################
 '''
-
 import requests
 import os
 import sys
