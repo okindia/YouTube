@@ -1,17 +1,44 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Lofi Girl | Hindi (YouTube) | https://yt3.ggpht.com/qXwJcIl7ufH0x8skbCBBdACHCgRKuPxXRIR3AQCBxNolUiQ0OwOEdK3Qo9p7tiTGBAzq0nY0430=s48-c-k-c0x00ffffff-no-rj | ytLofiGirl
-https://www.youtube.com/watch?v=5qap5aO4i9A
+India Today | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSt-tHE1CSHmihgq351JIiXq9-hdITBE4EYNGi2HQ=s88-c-k-c0x00ffffff-no-rj | ytindiatoday
+https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw/live
 
-The Good Life Radio x Sensual Musique | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRolK5uaMIsmYQV2cHzxxC8qSCH5aQ18O3_PMJHwQ=s48-c-k-c0x00ffffff-no-rj | ytTheGoodLiferadio
-https://www.youtube.com/watch?v=36YnV9STBqc
+NDTV Profit | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSz9FJpaIi9Qqg8EabODY1c-EeFFAd4ao8f41e-=s88-c-k-c0x00ffffff-no-rj | ytndtvprofit
+https://www.youtube.com/channel/UCJEtD6JDgNKxcPJPBOAf-Tg/live
 
-Cafe Music BGM channel | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQNk-rbFGf5JjDvJxjaZUQSOR03MaWJ6m8krkMR5A=s48-c-k-c0x00ffffff-no-rj-mo | ytUCJhjE7wbdYAae1G25m0tHAA
-https://www.youtube.com/watch?v=Af0PyxJKCkA
+NDTV 24x7 | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4=s88-c-k-c0x00ffffff-no-rj | ytndtv24x7
+https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
 
-Soothing Relaxation | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRwAV9Krb527QrhWRaeK0nzoiIVkLcRSqlu8qLCHg=s48-c-k-c0x00ffffff-no-rj | ytSoothingRelaxation
-https://www.youtube.com/watch?v=y7e-GC6oGhg
+Sky News | English (YouTube) | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s48-c-k-c0x00ffffff-no-rj | ytSkyNews
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+ABC News | English (YouTube) | https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj | ytABCNews
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+
+euronews | English (YouTube) | https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s48-c-k-c0x00ffffff-no-rj | ytUCSrZ3UV4jOidv8ppoVuvW9Q
+https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
+
+CNA | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj | ytchannelnewsasia
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+ABC News (Australia) | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTa2CQVIx8F_yDjyIXMcuqnRaEEo1_-V-7gXOTbxA=s48-c-k-c0x00ffffff-no-rj | ytNewsOnABC
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+DW News | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s48-c-k-c0x00ffffff-no-rj | ytdwnews
+https://www.youtube.com/watch?v=V9KZGs1MtP4
+
+FRANCE 24 English | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA=s48-c-k-c0x00ffffff-no-rj | ytFRANCE24English
+https://www.youtube.com/watch?v=jNhh-OLzWlE
+
+CGTN Europe | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s48-c-k-c0x00ffffff-no-rj | ytCGTNEurope
+https://www.youtube.com/watch?v=FGabkYr-Sfs
+
+WION | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTta-0m1PJnm8LL4i_1TzLGXioFwIU5hi6yy0fRqg=s48-c-k-c0x00ffffff-no-rj | ytWION
+https://www.youtube.com/watch?v=1gVvSfBxdEQ
+
+RT | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSJNfetg8Tn7CPWTsUy_KyPuBrEXyR9b7iF5FWhAw=s48-c-k-c0x00ffffff-no-rj | ytRT
+https://www.youtube.com/watch?v=V0I5eglJMRI
 
 DD News | Hindi (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQtlX3rWNbvBfc9eOCnu5jajwWVrxwe9NvqtLBB1w=s48-c-k-c0x00ffffff-no-rj | ytddnews
 https://www.youtube.com/watch?v=SIOM-RyamcI
@@ -94,35 +121,44 @@ https://www.youtube.com/watch?v=9qQSv9m6iUA
 SANSAD TV - SD | Hindi (YouTube) | https://yt3.ggpht.com/E0rC4EBUlMnmBST4vIA0-IdVR6auz1SnNB5QO_LirM59DXDzf52dOmSIpZkYgXHQrUhNw_IU=s88-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/watch?v=Ist_r8Zs2xc
 
-Sky News | English (YouTube) | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s48-c-k-c0x00ffffff-no-rj | ytSkyNews
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+TV9 Gujarati | Gujarati (YouTube) | https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCeJWZgSMlzqYEDytDnvzHnw/live
 
-ABC News | English (YouTube) | https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj | ytABCNews
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
+ABP Asmita | Gujarati (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTrjHAKHvrNSmAaKygPhSuwwEY7dXmSDIZYc7VWPw=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UC3C6_1ETXfE807LltDbKYxg/live
 
-euronews | English (YouTube) | https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s48-c-k-c0x00ffffff-no-rj | ytUCSrZ3UV4jOidv8ppoVuvW9Q
-https://www.youtube.com/watch?v=sPgqEHsONK8
+Salangpur Hanumanji | Devotional (YouTube) | https://yt3.ggpht.com/nfflXDHBDMQjyK21niczy0yAxFfpdO0JrvB2HXa5B7br3WwhIo4o1BsN3Bp_mnKFqJwPd1ZCVA=s88-c-k-c0x00ffffff-no-rj  | 
+https://www.youtube.com/channel/UCI1r_MNxzyvUPHyTdWDe4NA/live
 
-CNA | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj | ytchannelnewsasia
-https://www.youtube.com/watch?v=XWq5kBlakcQ
+Shree Siddhivinayak | Devotional (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQJFiYoNuJTmdwtcAMHqAun92Nv9cnJDuCqCmA6Iw=s88-c-k-c0x00ffffff-no-rj  | 
+https://www.youtube.com/channel/UCNH47WOVuA2zkP2cP1sEynw/live
 
-ABC News (Australia) | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTa2CQVIx8F_yDjyIXMcuqnRaEEo1_-V-7gXOTbxA=s48-c-k-c0x00ffffff-no-rj | ytNewsOnABC
-https://www.youtube.com/watch?v=vOTiJkg1voo
+Bhuj Mandir | Devotional (YouTube) | https://yt3.ggpht.com/Awdh8Dj4O5OHPj62AZAgdr-0Nf7een3QxNpcA2bEewj62IJTtfIHdHcKdLpFJce9eAX6Mw819w=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCVItNtUctAknegvmYcMhUQg/live
 
-DW News | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s48-c-k-c0x00ffffff-no-rj | ytdwnews
-https://www.youtube.com/watch?v=V9KZGs1MtP4
+Shree Dwarkadhish Jagad Mandir Dwarka | Devotional (YouTube) | https://yt3.ggpht.com/ytc/AKedOLT21Z_Xz6jwL8pj4aJ-41i9OyBJZXD7K3Uf0ZKP=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCBAvMHZO3BIfMMhOK9LMOYQ/live
 
-FRANCE 24 English | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA=s48-c-k-c0x00ffffff-no-rj | ytFRANCE24English
-https://www.youtube.com/watch?v=jNhh-OLzWlE
+Somnath Temple | Devotional (YouTube) | https://yt3.ggpht.com/VHYWfsvAJCbO0e6IdN0d9RE14gxPxSXfr9wZmAFK2Evl9MOGucyny8OTMI-2IXvTQ_CxVdnZ=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCT1egsvA08YcdMLiEu1DTRg/live
 
-CGTN Europe | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s48-c-k-c0x00ffffff-no-rj | ytCGTNEurope
-https://www.youtube.com/watch?v=FGabkYr-Sfs
+Shree Mahakaleshwar Mandir | Devotional (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRi8QBPrvRPPjBGa02PHr5PIJKrCPuKANFIe93O0A=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCEUuwXHmHckwmdANSy4c7Sw/live
 
-WION | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTta-0m1PJnm8LL4i_1TzLGXioFwIU5hi6yy0fRqg=s48-c-k-c0x00ffffff-no-rj | ytWION
-https://www.youtube.com/watch?v=1gVvSfBxdEQ
+Lofi Girl | Music (YouTube) | https://yt3.ggpht.com/qXwJcIl7ufH0x8skbCBBdACHCgRKuPxXRIR3AQCBxNolUiQ0OwOEdK3Qo9p7tiTGBAzq0nY0430=s48-c-k-c0x00ffffff-no-rj | ytLofiGirl
+https://www.youtube.com/watch?v=5qap5aO4i9A
 
-RT | English (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSJNfetg8Tn7CPWTsUy_KyPuBrEXyR9b7iF5FWhAw=s48-c-k-c0x00ffffff-no-rj | ytRT
-https://www.youtube.com/watch?v=V0I5eglJMRI
+The Good Life Radio x Sensual Musique | Music (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRolK5uaMIsmYQV2cHzxxC8qSCH5aQ18O3_PMJHwQ=s48-c-k-c0x00ffffff-no-rj | ytTheGoodLiferadio
+https://www.youtube.com/watch?v=36YnV9STBqc
+
+Cafe Music BGM channel | Music (YouTube) | https://yt3.ggpht.com/ytc/AKedOLQNk-rbFGf5JjDvJxjaZUQSOR03MaWJ6m8krkMR5A=s48-c-k-c0x00ffffff-no-rj-mo | ytUCJhjE7wbdYAae1G25m0tHAA
+https://www.youtube.com/watch?v=Af0PyxJKCkA
+
+Soothing Relaxation | Music (YouTube) | https://yt3.ggpht.com/ytc/AKedOLRwAV9Krb527QrhWRaeK0nzoiIVkLcRSqlu8qLCHg=s48-c-k-c0x00ffffff-no-rj | ytSoothingRelaxation
+https://www.youtube.com/watch?v=y7e-GC6oGhg
+
+4K Nature Relaxation Music | Music (YouTube) | https://yt3.ggpht.com/ytc/AKedOLSQpkx_eLJh-x9tyxZ7f9Uq5fjs2oqgZeCdEpk=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCtvsljLC4qHFdI4W9GmQPcA/live
 
 Peppa Pig | Kids (YouTube) | https://yt3.ggpht.com/ytc/AKedOLTelHEtJaY82tw8fHtXx9WVpfh9YqOv6zlpgSpVCA=s48-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/watch?v=wJ_P8XvobIQ
