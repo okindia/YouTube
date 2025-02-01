@@ -7,12 +7,14 @@
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4=s88-c-k-c0x00ffffff-no-rj" tvg-id="ytndtv24x7", NDTV 24x7
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytSkyNews", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738393744/ei/MHSdZ-KhBsPpybgPjIXX2Qo/ip/20.102.223.138/id/YDvsBbKfLPA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51365992/txs/51365992%2C51365993%2C51365994/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY2Et-OugaWEG_LufasykI0zmWdAzQlU-IOrRsW-wuM8tfG4sOGYORg7JvhBQwmsd1AkVyUaYibukW_-/spc/9kzgDc7Cb_eyWbrrgzyFlI-1NCf9l7_KQKMxxfTbKfTgo1PEQtetPjL6Q9JO5f_2sUyLKrE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKoOWMaH_mIh2z4R5y9xuj7n7W3BZunUXWcXEmUFNEJBAiEAxatgPZ0TzprsC24Q_DrwtcrTIJFH4KTBg1l2lcwxbsY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytABCNews", ABC News
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytUCSrZ3UV4jOidv8ppoVuvW9Q", euronews
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytchannelnewsasia", CNA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738393747/ei/M3SdZ52VIbCX2_gPvK77uAQ/ip/20.102.223.138/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MxJQ4vgVDgL0RqkdGRCqLrPqlVC6-B5gQlIgTgj6GfXuh-j1soa7QaTYoCG63i3NrbwBNL_jlb/spc/9kzgDbDFfLdeeDkmknbzCvJft2tPq8H0r4TZhD-hp4CHwsDJe69DpXHcNXhStca0U82xPIQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALVysGt30IkCI5dAHQ6tBvc5BfwEzqLMWAAcJHWFXo4PAiBAXgfX0VyoTM2R8plKgX9MIKNg0YvxY9zGKAYVPqBQBg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTa2CQVIx8F_yDjyIXMcuqnRaEEo1_-V-7gXOTbxA=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytNewsOnABC", ABC News (Australia)
 
