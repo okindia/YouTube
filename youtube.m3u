@@ -27,6 +27,7 @@
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJNfetg8Tn7CPWTsUy_KyPuBrEXyR9b7iF5FWhAw=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytRT", RT
 
 #EXTINF:-1 group-title="Hindi (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQtlX3rWNbvBfc9eOCnu5jajwWVrxwe9NvqtLBB1w=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytddnews", DD News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755131413/ei/tdmcaPftJ9yzlu8P9ZjswA0/ip/135.232.177.180/id/cSQ7egiOTaA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477230/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNSYgTEqHzWAvjr274kYDjU7-S-0nv_0dLkkdmju6GOenApzs23Iq0WacVR692qNzySO7R4Oh_e/spc/l3OVKaB8_9jWk8oERQuU_temLXuo-oUuS6anK37Znsu3t0_AlhQnjAovMN2q38N79Bs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKCLy-UhiKZ-CBuYxAvAbBMxC3HQqTbEdDyFEbAeqsE-AiEAsph9InDbk8vo59TRBLlG3o4dHzfj8DI4QIiYMX-3Ll8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSc430fgzBmgF8DgWUUUKTCj0UmmxfDRzIveN7JFfo=s88-c-k-c0x00ffffff-no-rj" tvg-id="ytaajtak", Aaj Tak
 
