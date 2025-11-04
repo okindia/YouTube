@@ -7,6 +7,7 @@
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ21BVR2XXhuPuSZAf1HC6quBldr1TQYxXO552Mre4=s88-c-k-c0x00ffffff-no-rj" tvg-id="ytndtv24x7", NDTV 24x7
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytSkyNews", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762281374/ei/PvMJaYGWCPiWr9gPuOCdOQ/ip/172.174.165.229/id/bnyqxMOMUsY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5THzCkktIfN8KiCFHmKBySk_eSiE3uJFYN-EZDGJDpQQncZQiweRk26PTUVA2Addaxj5D3hsOjf/spc/6b0G_CaqZneXxBZwbfik9P-5BcpPdnQh9lrxVLhT1bFJXU8VkZxK5m8SU42_VasvxiE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPxNiv0d9y3ITKSAzmvEAJ1QlW_a3i__OwPmpD-566dQCIQCmk0Vu4wHKIaP5Rm1yjOS3AQUq6Et5ss4QPBnPU9r-RQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytABCNews", ABC News
 
@@ -19,6 +20,7 @@
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytdwnews", DW News
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSvx6Lajinz_I-_33UiIWNItieFMkWIAxbDuR_AA=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytFRANCE24English", FRANCE 24 English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762281381/ei/RfMJaammH72FkucPgZWW0Ao/ip/172.174.165.229/id/Ap-UM1O9RBU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TULCsWfTTSOP8TiQkkkJrpLpgDgRZnn_h-4CtWnG6Pd5i7oIjcOpX9tCf9ePGpwUR10U2Zt-tX/spc/6b0G_Iawv7obnoZ9YekzM2uigz_jLZQILC1RuqDnZ_fu0UJGI5nTTgyKYSpmiPOI5lg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgO57kOO1v0f0w-VJdjdxcrmc4zLeBhlap_pnfkzu5fIwCIQDfxJD9M9R2vEkCOiZ4mJFhkHiZ3loOz5Dp--UE-0hPow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytCGTNEurope", CGTN Europe
 
@@ -103,6 +105,7 @@
 #EXTINF:-1 group-title="Music (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNk-rbFGf5JjDvJxjaZUQSOR03MaWJ6m8krkMR5A=s48-c-k-c0x00ffffff-no-rj-mo" tvg-id="ytUCJhjE7wbdYAae1G25m0tHAA", Cafe Music BGM channel
 
 #EXTINF:-1 group-title="Music (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRwAV9Krb527QrhWRaeK0nzoiIVkLcRSqlu8qLCHg=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytSoothingRelaxation", Soothing Relaxation
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762281433/ei/efMJaaJj3oOS5w_wqO-JBw/ip/172.174.165.229/id/O2lmYoQnkKk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539855/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RS50XF0Uj3L-snFgtRb6Vqx0uTA6UgU4JPSqsSpHpO_-Fsf221XNfGFM3UzM5W_oSjf8f5GXrm/spc/6b0G_L9yJPDfY4hMeZjU3mwfpZVHvyzi0bxWzkUPt0PMKt49tbi15BFuQmIlTwS4iRQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWZbNEuCl2YJv8H2GOe13h4ErE0W3xbM3hp-Qn_i7LIkCIQDxh9ykCUI94Lhu6scQHaG3WXkfYdT7duoeGfqp9rlk7w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQpkx_eLJh-x9tyxZ7f9Uq5fjs2oqgZeCdEpk=s88-c-k-c0x00ffffff-no-rj" tvg-id="", 4K Nature Relaxation Music
 
