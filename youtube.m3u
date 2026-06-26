@@ -23,7 +23,6 @@
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytCGTNEurope", CGTN Europe
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTta-0m1PJnm8LL4i_1TzLGXioFwIU5hi6yy0fRqg=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytWION", WION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782514690/ei/oq8-aozsF_Oulu8P6LSyqQk/ip/52.161.60.229/id/WCkehqPTGhs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUwBqPqv_5hs70MrMYLlv2Rm6KeTi93C3AYIMnyp8tNc26OncBDFzauPeFAsy_npSCVIotR3KZJ/spc/SQ-umtA4JYLfCIY4zfzwydypM0Q2BGajsQHzB-p3Iexcs6-zXWtRVfjt4g0AeTAf77RaCA/vprv/1/go/1/ns/NK2yDuSKWyGJM7Unu3Xmo28W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/nu1M9Vac9yHmEi7uN/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgMRCiwG4_5G2MrB9E_dZUCbSI1KVlj6K0e3C5qPD8K-wCIA1Z9pzK8bYjBBJR3oZw-Ye1nSto1gYLq5I55OJS0usa/file/index.m3u8
 
 #EXTINF:-1 group-title="English (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJNfetg8Tn7CPWTsUy_KyPuBrEXyR9b7iF5FWhAw=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytRT", RT
 
@@ -44,6 +43,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782514690/ei/o
 #EXTINF:-1 group-title="Hindi (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUToLipy4MP82mnh40IvVCb4gOykJssP3S4anLCcE=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytabpnews", ABP NEWS
 
 #EXTINF:-1 group-title="Hindi (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLDEbpDTMQJiu7E8zjO5ghCVD6UID3br_iKdxA98E=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytzeenews", Zee News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782524551/ei/J9Y-auKPCeexlu8PsZrMkAU/ip/172.208.158.194/id/l26qXPLc92s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51929568/txs/51929566%2C51929567%2C51929568/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVu0iRZwrsP2xGnzhAqTjcv-IKa44Nb9qa2MGvhL1zCqX3v5GEv1zr6mEDuKlImTiOO4aVfsQR8/spc/SQ-uml_1jO09gIXMiAO5GY-53ECkVn7PKc6M-lqB_5ZIqM3QCPIYRlpMTw5JZolCYdnxtw/vprv/1/go/1/ns/z9skWg91GXibkozqQx2PJnkW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687%2C52017146/dover/11/n/5ciilZDQn9jzwk8zy/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALNQkdp6YhH0srBYxaItakaq0cN4bUqZOwKBVrNUDzaPAiEAufXRkDoEcw4zsatU9dILen2TpCI9E4l4aY0-PdfIh-s%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi (Youtube)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT45BFGj5eKepzvLBlFFt5t6U2VJl7fNtHBaoWIqQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="ytNews18BiharJharkhand", News18 Bihar Jharkhand
 
